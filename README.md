@@ -1,4 +1,9 @@
 # Full-Stack-auth-app
+
+I used MongoDB Compass as a graphical interface to connect with my MongoDB Atlas cloud database.
+It allowed me to visually explore and manage the collections created by my application — such as viewing the user data stored during the signup process.
+Through Compass, I verified that all user details were being correctly inserted, stored, and retrieved from the database.
+
  <img width="1874" height="846" alt="Screenshot 2025-11-10 134937" src="https://github.com/user-attachments/assets/75ee2480-f7d9-4727-a44e-4cf06002e994" />
  <img width="1694" height="892" alt="Screenshot 2025-11-10 135011" src="https://github.com/user-attachments/assets/3317134d-c466-4c52-ace9-c21dafae0756" />
 
